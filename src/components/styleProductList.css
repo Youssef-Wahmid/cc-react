@@ -1,0 +1,14 @@
+#ttr {
+  font-size: 32px;
+  color: gray;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin: 20px auto;
+  width: 220px;
+  border-bottom: 0.5px solid white;
+}
+
+#ttr:hover {
+  color: black;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
